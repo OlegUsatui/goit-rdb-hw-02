@@ -5,7 +5,8 @@ ERR Diagram:
 
 Tables screenshots:
 
-![image](https://github.com/user-attachments/assets/11e5b48f-e0e9-46a2-a606-713a311bbd90)
-![image](https://github.com/user-attachments/assets/6c794547-d873-47c8-a074-eb129bd217cb)
+![image](https://github.com/user-attachments/assets/42620db1-b024-4018-9d42-c1b0bd204c6a)
+![image](https://github.com/user-attachments/assets/fafcc040-4d46-414a-8928-bd233ab3faff)
+
 
 
